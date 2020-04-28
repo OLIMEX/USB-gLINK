@@ -21,6 +21,7 @@ Product page: https://www.olimex.com/Products/IoT/LTE/USB-gLINK/open-source-hard
 * Regulatory: GCF (Global), CE (Europe), FCC/PTCRB (North America), IC (Canada), Anatel (Brazil), IFETEL (Mexico), SRRC/CCC/NAL (China), KC (South Korea), NCC (Taiwan, China), JATE/TELEC (Japan), RCM (Australia & New Zealand), FAC (Russia), NBTC (Thailand), IMDA (Singapore), ICASA (South Africa)
 
 ## Licensee
-* Hardware is released under Apache 2.0 Licensee
+* Hardware is released under CERN Open Hardware Licence Version 2 -
+Strongly Reciprocal
 * Software is released under GPL3 Licensee
 * Documentation is released under CC BY-SA 3.0
