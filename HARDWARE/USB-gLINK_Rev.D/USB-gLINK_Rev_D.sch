@@ -1,6 +1,5 @@
 EESchema Schematic File Version 4
-LIBS:USB-gLINK_Rev_D-cache
-EELAYER 29 0
+EELAYER 30 0
 EELAYER END
 $Descr A3 11693 16535 portrait
 encoding utf-8
@@ -9,7 +8,7 @@ Title "USB-gLINK"
 Date "2022-02-25"
 Rev "D"
 Comp "OLIMEX LTD."
-Comment1 "https://www.olimex.com"
+Comment1 "https://www.olimex.com/"
 Comment2 ""
 Comment3 ""
 Comment4 ""
@@ -65,8 +64,8 @@ Wire Wire Line
 Wire Wire Line
 	6100 15400 5800 15400
 $Bitmap
-Pos 7600 15000
-Scale 0.800000
+Pos 7755 15005
+Scale 1.000000
 Data
 89 50 4E 47 0D 0A 1A 0A 00 00 00 0D 49 48 44 52 00 00 01 BB 00 00 00 72 08 03 00 00 00 FD 27 8F 
 E4 00 00 00 03 73 42 49 54 08 08 08 DB E1 4F E0 00 00 00 90 50 4C 54 45 FF FF FF FF FD FE F5 CF 
@@ -260,8 +259,8 @@ C7 FD 4B 7B C3 2D 8B A6 7D D9 3C 3F E6 E0 6A 19 A9 AC FD 1F 95 4C 2F EB AC D9 C6
 EndData
 $EndBitmap
 $Bitmap
-Pos 9150 15100
-Scale 0.900000
+Pos 9300 15100
+Scale 0.800000
 Data
 89 50 4E 47 0D 0A 1A 0A 00 00 00 0D 49 48 44 52 00 00 01 F4 00 00 00 AC 08 02 00 00 00 02 1E C9 
 F3 00 00 00 03 73 42 49 54 08 08 08 DB E1 4F E0 00 00 00 09 70 48 59 73 00 00 0A F0 00 00 0A F0 
